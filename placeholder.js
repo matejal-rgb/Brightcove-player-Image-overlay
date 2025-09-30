@@ -12,7 +12,7 @@
     // Create the overlay element\
     overlay.className = 'vjs-placeholder';\
     // Set the inner HTML of the overlay to be your image\
-    overlay.innerHTML = "<img src='https://ik.imagekit.io/llumrdvem/1920x1080Reverb%20(1).png?updatedAt=1759203760381'>";\
+    overlay.innerHTML = "<img src='https://ik.imagekit.io/llumrdvem/Streaming_Placeholder.png?updatedAt=1759255614489";\
     \
     // Add the overlay to the player\
     myPlayer.el().appendChild(overlay);\
